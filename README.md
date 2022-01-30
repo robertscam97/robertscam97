@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertscam97
 - 👀 I’m interested in fungi & music
-- 🌱 I’m currently learning python & java
+- 🌱 I’m currently learning python & javascript
 - 💞️ I’m looking to collaborate on utsa coding bootcamp "challenges"
 - 📫 How to reach me? robertscam1997@gmail.com
 
